@@ -9,6 +9,7 @@ Enlaces: https://arxiv.org/pdf/0904.3701 - [[0904.3701v1.pdf]]
 - RDF: Resource Description Framework
 - Folksonomies: is a classification system in which end users apply public tags to online items, typically to make those items easier for themselves or others to find later.
 - Centrality (Centralidad): Tells us which nodes are important in a network. based on the topological structure of the network.
+- Centralidad del vector propio
 
 ### Ontología: 
 
@@ -21,6 +22,11 @@ Enlaces: https://arxiv.org/pdf/0904.3701 - [[0904.3701v1.pdf]]
 - **FOAF**: Friend Of A Friend is a **machine-readable ontology** describing persons, their activities and their relations to other people and objects. 
 - **SIOC**: Semantically Interlinked Online Communities provides methods for interconnecting discussion methods such as blogs, forums and mailing lists to each other.
 - **SCOT**: Is an acronym for Social Semantic Cloud of Tags. The name was chosen to emphasise the goal of providing a consistent framework for expressing social tagging at a semantic level in machine-understandable way. 
+
+
+### Centralidad
+
+
 
 ### Semantic Social Network Analysis Architeture 
 

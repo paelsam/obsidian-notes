@@ -1,11 +1,11 @@
 
 ## Redes sociosemánticas
 
-- Socio-semantic dynamics in a blog network: [[Socio-semantic dynamics in a blog network]]
+- ~~Socio-semantic dynamics in a blog network: [[Socio-semantic dynamics in a blog network]]~~
 - Semantic Social Network Analysis: [[Semantic Social Network Analysis]]
-- Redes Semánticas Naturales: https://dialnet.unirioja.es/descarga/articulo/1394252.pdf
-- Socio-semantic networks (**Psycologist**): https://www.researchgate.net/publication/388132666_Socio-semantic_networks
-- Social and semantic coevolution in knowledge networks: [[1-s2.0-S0378873309000215-main.pdf]]
+- ~~Redes Semánticas Naturales: https://dialnet.unirioja.es/descarga/articulo/1394252.pdf~~
+- ~~Socio-semantic networks (**Psycologist**): https://www.researchgate.net/publication/388132666_Socio-semantic_networks~~
+- Social and semantic coevolution in knowledge networks: [[Social and semantic coevolution in knowledge networks]]
 - Combining Natural Language Processing and Network Analysis to Examine How Advocacy Organizations Stimulate Conversation on Social Media: [[bail-2016-combining-natural-language-processing-and-network-analysis-to-examine-how-advocacy-organizations-stimulate.pdf]]
 - Automated Analysis of Actor–Topic Networks  on Twitter: New Approaches to the Analysis of Socio-Semantic Networks: https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/asi.24207 
 - Networked partisanship and framing: A sociosemantic network analysis of the Italian debate on migration: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256705 - [[journal.pone.0256705.pdf]]
